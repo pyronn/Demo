@@ -3,5 +3,7 @@ add feature-1
 add feature-2
 update feature-2
 update feature-2
+fix iss-1
+fix iss-2
 add feature-3
 update feature-3
