@@ -1,3 +1,4 @@
 new branch
 add feature-1
 add feature-2
+update feature-2
